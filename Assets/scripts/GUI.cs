@@ -10,6 +10,7 @@ public class GUI : MonoBehaviour
     public Button heuristic_button;
     public Text world_text;
     public Text heuristic_text;
+    public Box start_and_finish;
     public TextField start_x;
     public TextField start_y;
     public TextField finish_x;
